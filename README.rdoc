@@ -1,1 +1,2 @@
-# Ruby on Rails tutorial by bennux from Nitrous.IO boxgit
+# Ruby on Rails tutorial by bennux from Nitrous.IO 
+# Successful start and run of "demo_app"
