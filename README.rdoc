@@ -1,1 +1,1 @@
-# Ruby on Rails tutorial by bennux from Nitrous.IO box
+# Ruby on Rails tutorial by bennux from Nitrous.IO boxgit
